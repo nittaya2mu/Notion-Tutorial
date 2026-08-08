@@ -47,7 +47,7 @@ You now have a **complete, ready-to-deliver 90-minute Notion workshop** with pro
 
 ---
 
-### 3. **Notion_Workshop_90min_Slides.md**
+### 3. [**Notion_Workshop_90min_Slides.md**](Notion_Workshop_90min_Slides.md "Notion Workshop Slides")
 **Detailed script with speaker notes**
 - Full text for each slide (what to say)
 - Facilitation tips & timing
@@ -65,7 +65,7 @@ You now have a **complete, ready-to-deliver 90-minute Notion workshop** with pro
 
 ---
 
-### 4. **ECE_Department_Home_Example.md**
+### 4. [**ECE_Department_Home_Example.md**](ECE_Department_Home_Example.md "Example")
 **Detailed real-world example**
 - Before/after comparison
 - Complete workspace structure
