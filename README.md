@@ -7,7 +7,7 @@ You now have a **complete, ready-to-deliver 90-minute Notion workshop** with pro
 
 ## 📦 Your Materials (4 Files)
 
-### 1. **Notion_Workshop_Presentation.pptx** ⭐ [START HERE](https://openai.com "Workshop Handout")
+### 1. **Notion_Workshop_Presentation.pptx** ⭐ [START HERE](notion-workshop-handout.md "Workshop Handout")
 **Professional PowerPoint with 13 slides**
 - Open this file to present
 - Shows to participants on projector
