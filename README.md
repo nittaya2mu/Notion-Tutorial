@@ -32,7 +32,7 @@ You now have a **complete, ready-to-deliver 90-minute Notion workshop** with pro
 
 ---
 
-### 2. **WORKSHOP_MATERIALS_GUIDE.md**
+### 2. [**WORKSHOP_MATERIALS_GUIDE.md**](WORKSHOP_MATERIALS_GUIDE.md "workshop materials")
 **The master guide for running the workshop**
 - 90-minute schedule with timings
 - Before/during/after checklist
