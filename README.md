@@ -1,326 +1,345 @@
-# Notion Workshop - Quick Start Guide
-## Everything You Need is Ready to Go!
+# Notion Workshop - Revised Structure Summary
+## Based on Thai Workshop Framework (4-Part Structure)
 
-You now have a **complete, ready-to-deliver 90-minute Notion workshop** with professional materials. Here's what you have and how to use it.
-
----
-
-## 📦 Your Materials (4 Files)
-
-### 1. **Notion_Workshop_Presentation.pptx** ⭐ [START HERE](notion-workshop-handout.md "Workshop Handout")
-**Professional PowerPoint with 13 slides**
-- Open this file to present
-- Shows to participants on projector
-- Includes embedded speaker notes
-- Design: Clean purple theme, no cheesy AI elements
-- File size: 245 KB (ready to share or use offline)
-
-**What's on each slide:**
-1. Title slide
-2. Welcome & 8-slide agenda
-3. Why Notion (the pain points they experience)
-4. What is Notion (the 5 key capabilities)
-5. Three Skill Tiers (know your level)
-6. Real Example: ECE Department Home
-7. Live Demo instructions
-8. Essential Building Blocks
-9. Hands-On Practice with templates
-10. Workspace Rules
-11. Where to Get Help
-12. What You've Accomplished (recap)
-13. Thank You slide
+**Status:** ✅ Complete and Ready to Use  
+**File:** `Notion_Workshop_Revised.pptx` (269 KB)  
+**Duration:** 90 minutes  
+**Audience:** Kasetsart ECE Department (Academic + Support Staff)
 
 ---
 
-### 2. [**WORKSHOP_MATERIALS_GUIDE.md**](WORKSHOP_MATERIALS_GUIDE.md "workshop materials")
-**The master guide for running the workshop**
-- 90-minute schedule with timings
-- Before/during/after checklist
-- Troubleshooting tips
-- Sample participant email
-- What to customize (email, times, links)
-- Office hours setup guide
-- Feedback form template
-- Success metrics
+## 🎯 Key Changes from Original Structure
 
-**Use this to:** Plan, prepare, and execute the workshop smoothly
+| Aspect | Original | Revised |
+|--------|----------|---------|
+| **Structure** | Generic 13 slides | 4-part targeted framework |
+| **Focus** | One-size-fits-all | Role-specific (Academic vs Support) |
+| **Hands-on** | Single demo | Split hands-on for each role |
+| **Integration** | Separate workflows | Cross-functional synergy emphasized |
+| **Depth** | Surface-level | Deep dive into real use cases |
 
 ---
 
-### 3. [**Notion_Workshop_90min_Slides.md**](Notion_Workshop_90min_Slides.md "Notion Workshop Slides")
-**Detailed script with speaker notes**
-- Full text for each slide (what to say)
-- Facilitation tips & timing
-- Pre-workshop checklist
-- Materials to print/prepare
-- Live demo walkthrough (step-by-step)
-- Printable handout sections:
-  - Notion Basics One-Pager
-  - Keyboard Shortcuts Cheat Sheet
-  - Naming Conventions
-  - FAQ & Next Steps
-  - Resources & Links
+## 📊 New 4-Part Structure (90 minutes)
 
-**Use this to:** Know exactly what to say at each moment
+### **PART 1: Mindset & Core Building Blocks (15 minutes)**
+**Slides 1-6**
+
+- Title slide: "Work Smart with Notion"
+- 90-minute agenda breakdown
+- Problem framing: Information chaos in academia
+- Notion concept: Modular workspace (from scattered → organized)
+- Core building blocks: Pages vs Databases explained visually
+- Hands-on 1: Practice slash commands (3 minutes live demo)
+
+**Learning Goal:** Everyone understands the foundation
 
 ---
 
-### 4. [**ECE_Department_Home_Example.md**](ECE_Department_Home_Example.md "Example")
-**Detailed real-world example**
-- Before/after comparison
-- Complete workspace structure
-- Sample course hub walkthrough
-- Benefits by user role
-- Phased implementation plan
-- "Day in the life" scenarios
+### **PART 2: Department-Specific Workflows (40 minutes)**
 
-**Use this to:** Show during Slide 6; reference when answering questions
+#### **2A: Academic Staff Workflow (20 minutes) — Slide 7**
+**Color: Blue (#3B82F6)**
 
----
+Three integrated databases:
 
-## ⚡ Quick Setup (Do This First)
+1. **📚 Course Hub**
+   - Syllabus & schedule
+   - Weekly lecture notes
+   - Assignments & due dates
+   - Grade tracking
+   - Student roster
 
-**Time required:** 30 minutes
+2. **📖 Textbook/Course Notes**
+   - Kanban board organized by chapter
+   - Stages: Outline → Writing → Review → Approved → Ready for Print
+   - Perfect for tracking collaborative course material development
 
-1. **Customize the materials:**
-   - Open WORKSHOP_MATERIALS_GUIDE.md
-   - Find all `[placeholders]` in guides
-   - Replace with your actual:
-     - Email: `pooh@ku.ac.th` → your email
-     - Office hours: `[Day/Time]` → actual time
-     - Course codes: `01204212` → your courses (if different)
+3. **🎓 Academic Portfolio & Promotion Tracker**
+   - Central hub for promotion journey
+   - Tracks: published papers, research projects, teaching evaluations, service, administration
+   - Promotion criteria checklist
 
-2. **Test the presentation:**
-   - Open `Notion_Workshop_Presentation.pptx`
-   - Click through all 13 slides
-   - Make sure fonts/colors display correctly
-   - Verify it's readable from back of room on your projector
-
-3. **Prepare the workspace:**
-   - Create 3 simple template pages in Notion
-   - Get the duplicate links ready
-   - Test that participants can access them
-
-4. **Print handouts:**
-   - Print `notion-workshop-handout.md` (2-3 per participant)
-   - Print any cheat sheets you want (keyboard shortcuts, naming conventions)
-   - Print your contact card with email & office hours
+**Why this matters:** Academic staff can organize courses, track textbook writing progress like a project, and maintain one promotion portfolio instead of searching for scattered documents.
 
 ---
 
-## 🎯 90-Minute Workshop Timeline
+#### **2B: Support Staff Workflow (20 minutes) — Slide 8**
+**Color: Amber (#F59E0B)**
 
+Three integrated databases:
+
+1. **✓ Project & Task Tracker**
+   - Calendar + Board views
+   - Daily routines checklist
+   - PR/News posting schedule
+   - Event coordination
+   - Meeting agendas & notes
+   - Deadline notifications
+
+2. **📄 Official Document Tracker**
+   - Incoming/outgoing mail tracking
+   - Document register number
+   - Assigned to person
+   - Due/follow-up dates
+   - Status tracking (at a glance)
+
+3. **💰 Project Finance Tracker & Clearance Log**
+   - Budget received per project
+   - Total expenses tracker
+   - Receipt/document attachment
+   - Clearance status timeline
+   - Approval workflow & responsible person
+
+**Why this matters:** Support staff have a single source of truth for tasks, official documents, and finances—reducing scattered spreadsheets and email chains.
+
+---
+
+### **PART 3: Cross-Functional Synergy (20 minutes) — Slide 9**
+**Key Innovation: Showing How Teams Connect**
+
+Two real-world examples:
+
+#### **Example 1: Research Project**
 ```
-0:00-0:05   Opening            (Slides 1-2: Welcome, agenda)
-0:05-0:10   Problem framing    (Slide 3: Why Notion)
-0:10-0:13   Core concepts      (Slides 4-5: What is Notion, 3 tiers)
-0:13-0:20   Real example       (Slide 6: Show ECE Department Home)
-0:20-0:35   Live demo          (Slides 7-8: Create page together)
-0:35-1:00   Hands-on practice  (Slide 9: Duplicate template, customize)
-1:00-1:15   Logistics          (Slides 10-11: Rules, help resources)
-1:15-1:23   Wrap-up            (Slides 12-13: Recap, thank you, Q&A)
-1:23-1:25   Exit               (Distribute handouts, collect feedback)
+Academic Staff creates:
+  ├─ Project page
+  ├─ Research timeline
+  └─ Paper submissions
+       ↓ LINKED TO ↓
+Support Staff tracks:
+  ├─ Budget tracking
+  ├─ Document approval
+  └─ Meeting coordination
 ```
 
----
+#### **Example 2: Textbook Writing**
+```
+Support Staff monitors:
+  ├─ Printing status
+  ├─ Publisher deadlines
+  └─ Fund disbursement
+       ↓ LINKED TO ↓
+Academic Staff provides:
+  ├─ Chapter completion status
+  ├─ Review status
+  └─ Approval workflow
+```
 
-## 📋 Day-Of Checklist (Before You Start)
+#### **Collaboration Features Emphasized:**
+- **@mentions** for quick notifications (no more email chains)
+- **Comments** on specific items (feedback in context)
+- **Real-time updates** (see changes immediately)
+- **No duplicate entry** (update once, appears everywhere)
 
-- [ ] Presentation loaded and tested on projector
-- [ ] Notion workspace open and accessible
-- [ ] 3 template links ready to send participants
-- [ ] Handouts printed (or ready to email)
-- [ ] Contact info on screen or card
-- [ ] Participants have laptops open
-- [ ] Workspace invites sent (or link shared)
-
-**Pro tip:** Arrive 15 minutes early. Welcome people as they arrive. Builds a warm atmosphere.
-
----
-
-## 🎬 During the Workshop - What to Do
-
-### Slides 1-5 (5-15 min) - Just Present
-- Click through, read from speaker notes
-- Pause for questions
-- Look for confusion on faces; stop if needed
-
-### Slide 6 (15-20 min) - SHOW LIVE
-- Minimize presentation
-- Open the ECE_Department_Home_Example.md or show in Notion
-- Click into a course page, scroll around
-- "Here's what you could build in a few weeks"
-- **Goal:** Make it real, not abstract
-
-### Slides 7-8 (20-35 min) - LIVE DEMO
-- You do it on screen
-- Speak out loud as you type
-- Pause every 2-3 steps: "Everyone with me so far?"
-- Circulate after demo: "Does everyone have a page created?"
-- Help 1-2 stuck people
-- Celebrate: "You just created a Notion page!"
-
-### Slide 9 (35-1:00 min) - HANDS-ON PRACTICE
-- Send template links via email/chat/Slack
-- "Pick one, duplicate it, add your info. 15 minutes. I'll help."
-- Set a timer (shows you're organized)
-- Walk around:
-  - Help stuck people
-  - Celebrate progress: "Nice, you renamed it!"
-  - Note who's struggling (follow-up help)
-- Last 5 min: Ask 2-3 volunteers to share (1 min each)
-- "Took you 15 minutes and you have a working tool"
-
-### Slides 10-12 (1:00-1:23 min) - WRAP-UP
-- Go quick on workspace rules (5 min)
-- Emphasize multiple ways to get help (5 min)
-- Recap accomplishments (2 min)
-- Thank everyone (1 min)
-
-### Exit (1:23-1:25 min)
-- Hand out printouts
-- Say: "Check your email for links to everything"
-- "See you at office hours!"
+**Why this matters:** This is where Notion's power shines—reducing miscommunication and duplicated work between departments.
 
 ---
 
-## 🆘 If Something Goes Wrong
+### **PART 4: Notion AI, Templates & Q&A (15 minutes)**
+**Slides 10-13**
 
-| Issue | Fix |
-|-------|-----|
-| Workspace invite didn't arrive | Resend it; have them check spam |
-| Projector won't show slides | Have laptop display ready; smaller audience, gather close |
-| Internet connection fails | Switch to offline demo (screenshot of how it looks) |
-| Demo goes wrong | "Let me try that again" — reload page, try once more |
-| Someone can't create a page | Try in different browser; offer to help after session |
-| Running out of time | Skip the optional Tier 3 database section; move to wrap-up |
-| Participant seems disengaged | Direct question to them: "What do you think—how could you use this?" |
+#### **Notion AI Productivity Boost (Slide 10)**
+- 📝 Auto-Summarize: Read long abstracts, get 2-3 sentence summary
+- ✍️ Draft Generator: AI drafts official letters (you review & edit)
+- 🎯 Smart Database Insights: AI analyzes projects, suggests timeline fixes
+- 🏷️ Auto-Tagging: AI categorizes receipts/documents by type & project
 
-**Remember:** You're in control. It's okay to say "That's a great question; let me know and I'll help you after."
+#### **Template Distribution (Slide 11)**
+6 pre-built templates ready to duplicate:
+- 📚 Course Hub Template
+- 📖 Textbook Writing Kanban
+- 🎓 Academic Portfolio
+- ✓ Task & Project Tracker
+- 📄 Document Tracker
+- 💰 Finance Clearance Log
 
----
+#### **Q&A & Support (Slide 12)**
+- Right now: Ask questions
+- This week: Email pooh@ku.ac.th
+- Monthly: Office hours (Tuesday 2pm)
+- Advanced: Optional database workshop
 
-## 📧 After the Workshop
-
-**Send within 24 hours:**
-
-1. **Thank you email** with:
-   - Links to all resources
-   - Notion help page link
-   - Office hours schedule
-   - Feedback form link
-   - Workspace link
-
-2. **Check feedback:**
-   - What worked well?
-   - What confused people?
-   - Who wants follow-up help?
-
-3. **Follow-up with struggling participants:**
-   - "How's Notion going? Stuck on anything?"
-   - Offer 1-on-1 help
-
-4. **Plan office hours:**
-   - Send reminder email
-   - Post date/time on workspace
+#### **Thank You (Slide 13)**
+"Work Smart with Notion — Start building today. We'll help you along the way."
 
 ---
 
-## 🎨 Optional: Customize the Presentation
+## 🎨 Design Features
 
-The slides use this color scheme:
-- **Primary Purple:** #6366F1 (headers, important elements)
-- **Green Accent:** #10B981 (highlights, callouts)
-- **Light Gray:** #F3F4F6 (backgrounds, borders)
-- **Dark Gray:** #1F2937 (body text)
-- **White:** #FFFFFF (slide backgrounds)
+**Color Coding by Role:**
+- **Blue (#3B82F6)**: Academic staff content
+- **Amber (#F59E0B)**: Support staff content  
+- **Purple (#6366F1)**: Overall branding & synergy sections
+- **Green (#10B981)**: Action items & success highlights
 
-If you want to change colors:
-1. Open `Notion_Workshop_Presentation.pptx` in PowerPoint
-2. Go to Design → Colors
-3. Edit or choose a different scheme
-4. Save
-
-Or leave it as-is—it's already professional!
+**Structure:**
+- 13 slides total (same as original)
+- Professional header bar on every slide
+- Embedded speaker notes on each slide
+- Clean typography without AI clichés
+- 16:9 widescreen format
 
 ---
 
-## 📊 Success Metrics
+## 📝 Suggested Speaking Points
 
-**You know it worked if participants can:**
-- ✓ Open Notion and create a page
-- ✓ Add text, heading, checklist, table
-- ✓ Duplicate a template
-- ✓ Tell you the 3 tiers
-- ✓ Show you where to find help resources
+### Part 1 (15 min)
+"Notion brings everything together. Whether you're teaching, managing research, coordinating operations, or tracking budgets—information is currently scattered. Today we'll show you how to organize it all in one workspace."
 
-**Don't worry if:**
-- Not everyone finishes customizing template (that's okay—they'll do it later)
-- Few people ask questions (they're processing information)
-- Some seem intimidated (normal! Notion takes practice)
+### Part 2 (40 min)
+"Here's what's unique: we're not giving you generic templates. We've designed specific workflows for academic staff and support staff separately. Watch how this solves *your* actual problems."
 
-**Do worry if:**
-- Multiple people can't access workspace (technology issue)
-- Everyone looks confused on Slide 3 (explain "why Notion" better)
-- Hands-on practice section feels rushed (timing was off—note this for next time)
+*(After showing academic workflows)*
+"For academic staff: You get three things. A course hub where all materials live. A textbook tracker where you manage writing like a project. And a promotion portfolio that gathers all your achievements."
 
----
+*(After showing support workflows)*
+"For support staff: You get three things. A task tracker so nothing falls through the cracks. A document tracker so official mail doesn't get lost. And a finance tracker that shows budget-to-clearance in one view."
 
-## 🚀 Next Steps After Workshop
+### Part 3 (20 min)
+"Now here's the magic. These aren't separate silos. A research project connects the academic side with the support side through Notion's linking. The textbook writer can see printing status in real-time. The support staff can see chapter completion without asking via email."
 
-### Week 1: Follow-Up
-- Send resources email
-- Hold office hours
-- Check if participants are using Notion
-
-### Week 2-4: Build Momentum
-- Send example of department page
-- Share tips in email or Slack
-- Celebrate early adopters
-
-### Month 2: Optional Follow-Up Session
-- Advanced workshop on databases
-- How to set up Tier 3 features
-- Design review of their pages
+### Part 4 (15 min)
+"We've also included AI features to save you time, and we're providing templates you can duplicate immediately. No building from scratch. And I'm here to help—office hours every month, email anytime, and there's a help page in the workspace."
 
 ---
 
-## 💡 Pro Tips
+## ✅ Implementation Checklist
 
-1. **Arrive early.** Chat with people as they arrive. Builds rapport.
+**Before the Workshop:**
+- [ ] Customize email/contact info in Slide 12
+- [ ] Create 6 templates in Notion for participants to duplicate
+- [ ] Test presentation on projector
+- [ ] Print handouts
+- [ ] Prepare TA if possible (helps during hands-on sections)
 
-2. **Smile.** You're excited about Notion; let them see that.
+**During Part 1 (15 min):**
+- Show slides 1-6
+- Do 3-minute hands-on slash command demo
+- Everyone should have a test page created
 
-3. **Go slow.** It's better to finish early than rush.
+**During Part 2 (40 min):**
+- Show slides 7-8
+- Point out how each database solves real problems
+- Use real course codes & scenarios from ECE department
 
-4. **Ask questions.** "Who's used spreadsheets before? Same idea in Notion."
+**During Part 3 (20 min):**
+- Show slide 9
+- Emphasize: "This is how you actually reduce email and miscommunication"
+- Ask: "Who has experienced this? Research project where support staff didn't know status?"
 
-5. **Celebrate wins.** "Nice! You created a Notion page." People need that encouragement.
-
-6. **Be honest.** "I don't know how to do that, but let me find out and email you."
-
-7. **Don't oversell.** Notion isn't perfect for everything. That's okay.
-
-8. **Follow up.** The workshop is the beginning, not the end. Office hours are where real learning happens.
-
----
-
-## ✅ You're Ready!
-
-- Presentation: ✓
-- Script: ✓
-- Handouts: ✓
-- Example: ✓
-- Guide: ✓
-
-**Nothing else to do but:**
-1. Customize placeholders (email, times, course codes)
-2. Print handouts
-3. Invite participants
-4. Show up with energy
-
-**The workshop is in your hands now. Go make it great!** 🚀
+**During Part 4 (15 min):**
+- Show AI examples quickly (don't deep-dive unless audience very interested)
+- Distribute template links
+- Q&A
+- Collect feedback
 
 ---
 
-**Questions or feedback?** Reach out and let me know how it went!
+## 🎯 Success Metrics
+
+**Participants leave understanding:**
+1. ✓ Notion organizes work by role, not by tool
+2. ✓ Academic staff solve teaching + research + promotion tracking
+3. ✓ Support staff solve tasks + documents + finance
+4. ✓ The two sides connect via relations and collaboration features
+5. ✓ Templates exist to start immediately
+
+**You know it worked if:**
+- Academic staff are excited about promotion tracking
+- Support staff are relieved about document tracking
+- Both see how less email means more focus
+
+---
+
+## 📊 Slide Breakdown
+
+| Slide | Title | Duration | Content |
+|-------|-------|----------|---------|
+| 1 | Work Smart with Notion | 1 min | Title + Thai subtitle |
+| 2 | 90-Minute Agenda | 4 min | 4-part breakdown |
+| 3 | The Problem | 3 min | Information chaos |
+| 4 | Notion Concept | 3 min | Modular workspace |
+| 5 | Core Building Blocks | 3 min | Pages vs Databases |
+| 6 | Hands-On 1 | 3 min | Slash commands (live) |
+| 7 | Academic Workflows | 20 min | Course, Textbook, Portfolio |
+| 8 | Support Workflows | 20 min | Tasks, Documents, Finance |
+| 9 | Cross-Functional Synergy | 20 min | How teams connect |
+| 10 | Notion AI | 5 min | 4 AI productivity features |
+| 11 | Templates | 5 min | 6 ready-made templates |
+| 12 | Q&A & Support | 5 min | Contact + resources |
+| 13 | Thank You | 1 min | Closing |
+| **TOTAL** | | **90 min** | |
+
+---
+
+## 🔑 Key Differences from Original
+
+1. **Targeted:** No longer generic "intro to Notion." Now specifically addresses academic + support staff.
+
+2. **Depth:** Instead of skimming 6 features, deep-dive into 3 databases per role.
+
+3. **Connection:** Shows how roles work together (solving the real problem of silos).
+
+4. **Thai-friendly:** Title slide has Thai subtitle, examples use ECE department context.
+
+5. **Practical:** Every example is a real database you can duplicate and use today.
+
+6. **Synergy:** Emphasizes the breakthrough: less email, more collaboration, shared visibility.
+
+---
+
+## 🚀 Next Steps
+
+1. **Customize the presentation:**
+   - Update email/contact on Slide 12
+   - Update course codes if different
+   - Add specific department names if needed
+
+2. **Prepare templates:**
+   - Create 6 templates in Notion
+   - Get duplicate links ready
+   - Test duplicating one to make sure it works
+
+3. **Run through the presentation:**
+   - Time yourself (aim for 90 min including Q&A)
+   - Practice the Part 3 explanation (this is the "magic moment")
+   - Prepare one real example from ECE department
+
+4. **Send pre-workshop email:**
+   - Include Notion workspace link
+   - Set expectations: "Bring your laptop, we'll practice together"
+   - Note: "This workshop is designed for both academic and support staff with different needs"
+
+5. **Day-of:**
+   - Arrive 15 min early, test projector
+   - Welcome participants warmly
+   - Start energetically: "Today we're solving the 'where's my file?' problem once and for all"
+
+---
+
+## 💬 Thai Translation Note
+
+The slide title uses:
+- English: "Work Smart with Notion"
+- Thai: "รวมทุกงาน เอกสาร และโครงการไว้ในที่เดียว"
+- Translation: "Bring together all work, documents, and projects in one place"
+
+This mirrors the workshop theme: **unified workspace**.
+
+---
+
+## 📧 Questions or Adjustments?
+
+If you want to:
+- Add more academic examples (research databases, publication tracker)
+- Add more support examples (HR tracking, facility requests)
+- Deep-dive into Notion AI
+- Show live templates
+- Extend to 2 hours
+
+Just let me know!
+
+---
+
+**You're ready to deliver a powerful, targeted workshop that actually solves real problems for your department.** 🎉
